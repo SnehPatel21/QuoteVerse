@@ -29,7 +29,7 @@ A modern, responsive Random Quote Generator that delivers inspiration at your fi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/quoteverse.git
+   git clone https://github.com/SnehPatel21/quoteverse.git
    ```
 
 2. Navigate to the project directory:
@@ -67,8 +67,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Quote API provided by [type.fit](https://type.fit/api/quotes)
-- Icons by [Lucide Icons](https://lucide.dev/)
+- Quote API provided by [dummyjson](https://dummyjson.com/quotes/random)
 - Inspiration from various quote generators across the web
 
 ---
