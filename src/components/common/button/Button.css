@@ -1,0 +1,13 @@
+.button-hover-effect {
+    transform: translateY(0);
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .button-hover-effect:hover {
+    transform: translateY(-2px);
+  }
+  
+  .button-active-effect:active {
+    transform: translateY(1px);
+  }
+  
